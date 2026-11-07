@@ -1,0 +1,26 @@
+.box {
+    width: 360px;
+    background-color: rgb(255, 75, 105);
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.text {
+    text-transform: uppercase;
+    background: rgba(0, 128, 0, 0.459);
+    position: relative;
+    top: -300px;
+}
+
+.b {
+    color: blue;
+    font-size: 72px;
+    font-weight: 900;
+    text-decoration: underline;
+    line-height: 32px;
+}
+
+.img {
+    width: 100%;
+}
